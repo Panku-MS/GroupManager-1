@@ -21,7 +21,7 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
-
+My owner is panku
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
